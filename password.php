@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Official Team 753 Scouting Interface</title>
+        <link rel="stylesheet" href="scoutstyle.css">
+    </head>
+    <body>
+        <?php
+            if($_POST["p-e-mail"]=="mvhsteam753@gmail.com"){
+                echo 'Your password is "vernandray"';
+                ?>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <?php
+            } else{
+                echo "🛑Stop!!!";
+                ?>
+                <br>
+                <?php
+                echo "You don't have access to this service!";
+                ?>
+                <br>
+                <?php
+                echo "Email High Desert Droids at mvhsteam753@gmail.com if you believe this is a mistake.";
+                ?>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <?php
+            }
+            ?>
+</html>
